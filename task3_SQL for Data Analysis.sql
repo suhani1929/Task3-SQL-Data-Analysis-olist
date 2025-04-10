@@ -77,3 +77,6 @@ ON order_reviews (review_score);
 CREATE INDEX IF NOT EXISTS idx_products_category_name 
 ON products (product_category_name);
 
+SELECT name, tbl_name, sql
+FROM sqlite_master
+WHERE type = 'index';
