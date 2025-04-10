@@ -5,8 +5,8 @@ Analyze the Olist E-commerce dataset using SQL to extract insights, perform aggr
 
 
 Tools Used:
-
 SQLite (Browser or DB tool)
+
 Dataset: olist.sqlite
 
 
