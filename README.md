@@ -12,17 +12,17 @@ Dataset: olist.sqlite
 
 🔍 Key SQL Concepts Covered:
 
-SELECT, WHERE, GROUP BY, ORDER BY
+1. SELECT, WHERE, GROUP BY, ORDER BY
 
-Joins: INNER JOIN
+2. Joins: INNER JOIN
 
-Aggregate Functions: SUM(), AVG(), COUNT()
+3. Aggregate Functions: SUM(), AVG(), COUNT()
 
-Subqueries for conditional filtering
+4. Subqueries for conditional filtering
 
-Views for reusable analysis
+5. Views for reusable analysis
 
-Indexes for performance optimization
+6. Indexes for performance optimization
 
 
 📂 Deliverables:
