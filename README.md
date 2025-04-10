@@ -3,6 +3,7 @@ Objective:
 Analyze the Olist E-commerce dataset using SQL to extract insights, perform aggregations, create views, and optimize queries with indexing.
 
 Tools Used:
+
 SQLite (Browser or DB tool)
 Dataset: olist.sqlite
 
@@ -20,6 +21,7 @@ Views for reusable analysis
 Indexes for performance optimization
 
 📂 Deliverables:
+
 task3_SQL for Data Analysis.sql: Contains all queries with comments
 
 SQL Query Outputs and Indexing.pdf: Screenshots showing query outputs and index confirmation
