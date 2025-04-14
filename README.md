@@ -1,16 +1,16 @@
 # Task 3 : SQL for Data Analysis
-Objective:
+## Objective:
 
 Analyze the Olist E-commerce dataset using SQL to extract insights, perform aggregations, create views, and optimize queries with indexing.
 
 
-Tools Used:
+## Tools Used:
 SQLite (Browser or DB tool)
 
-Dataset: olist.sqlite
+## Dataset: olist.sqlite
 
 
-🔍 Key SQL Concepts Covered:
+## 🔍 Key SQL Concepts Covered:
 
 1. SELECT, WHERE, GROUP BY, ORDER BY
 
@@ -25,7 +25,7 @@ Dataset: olist.sqlite
 6. Indexes for performance optimization
 
 
-📂 Deliverables:
+## 📂 Deliverables:
 
 task3_SQL for Data Analysis.sql: Contains all queries with comments
 
