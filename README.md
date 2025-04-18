@@ -27,7 +27,7 @@ SQLite (Browser or DB tool)
 
 ## 📂 Deliverables:
 
-task3_SQL for Data Analysis.sql: Contains all queries with comments
+- `task3_SQL for Data Analysis.sql`: Contains all queries with comments
 
-SQL Query Outputs and Indexing.pdf: Screenshots showing query outputs and index confirmation
+- `SQL Query Outputs and Indexing.pdf`: Screenshots showing query outputs and index confirmation
 
